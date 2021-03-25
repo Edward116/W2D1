@@ -1,3 +1,4 @@
+
 import React, {useState} from 'react'
 import './Slider.css'
 import Data from '../slider.json'
@@ -53,3 +54,4 @@ const Slider = () => {
 
 
 export default Slider
+
