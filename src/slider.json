@@ -1,0 +1,34 @@
+
+  [
+    {
+      "txt": "First Page",
+      "news": "News on Page 1",
+      "url": "https://lh3.googleusercontent.com/upVaaE4cnUBQCPV5vEgNqmjtPb8CsDQzfP-UV3hXZEFzjyAFJnUIltPUDeo5Z5XJXkgz87SzpFOZX_YpbsUyyJAkKQi7zApg60uHqA=w1064-v0"
+    },
+    {
+      "txt": "Second Page",
+      "news": "News on Page 2",
+      "url": "https://designstil.info/wp-content/uploads/2019/03/Goluboj-tsvet-sten-1.png"
+    },
+    {
+      "txt":"Third Page",
+      "news": "News on Page 3",
+      "url": "https://impicode.pl/wp-content/uploads/2019/09/przyklady-aplikacji-napisanych-w-react-native-1.jpg"
+    },
+    {
+      "txt": "Закат",
+      "news": "Туман яром, туман долиною",
+      "url": "http://fotorelax.ru/wp-content/uploads/2016/03/Beautiful-photos-and-pictures-on-various-subjects-01.jpg"
+    },
+    {
+      "txt": "Ястреб",
+      "news": "Снайперське оружие",
+      "url": "https://images03.military.com/sites/default/files/2020-03/Next-Generation-Squad-Weapon-Science-and-Technology-prototype-1800.jpg"
+    },
+    {
+      "txt": "Buggatti",
+      "news": "Гоночний супер-кар",
+      "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bugatti-chiron-pur-sport-106-1582836604.jpg"
+    }
+  ]
+
